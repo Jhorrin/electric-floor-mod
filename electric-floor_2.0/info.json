@@ -1,0 +1,13 @@
+{
+  "name": "electric-floor",
+  "version": "1.0.1",
+  "title": "Electric Floor",
+  "author": "doanbalat",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0"
+  ],
+  "description": "Add a specific concrete floor that can transfer electricity, no need for poles",
+  "license": "GNU GPLv3"
+}
+
